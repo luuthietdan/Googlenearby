@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">googlenearby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_directions_key">AIzaSyD3ppUcHCllZzWll-FldSxu2NWahL7YzlM </string>
+</resources>
